@@ -3,9 +3,8 @@
 /**
  * main - prints the size of various types on
  * the computer it is compiled and run on.
- * Retrun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 printf("Size of a char: %zu byte(s)\n", sizeof(char));
